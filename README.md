@@ -15,7 +15,7 @@ This project aims to revolutionize the makeup shopping experience by empowering 
 > When looking for makeup, Jeny, a daily makeup user, wants to find a shade that suits her skin tone and undertone. While offline stores allow her to swatch products directly, they often lack tools or guidance to help her understand her skin profile, making it difficult for her to confidently choose the right shade and avoid mismatched purchases.
 
 ### Our Solution
-> Our solution, FlawlessMatch, uses Machine Learning to analyze skin tone and undertone and create a personalized complexion shade-matching experience. This empowers daily makeup users like Jeny to identify their unique skin profile and find the right makeup shade with confidence, transforming their makeup shopping journey.
+> Our solution, Shadee, uses Machine Learning to analyze skin tone and undertone and create a personalized complexion shade-matching experience. This empowers daily makeup users like Jeny to identify their unique skin profile and find the right makeup shade with confidence, transforming their makeup shopping journey.
 
 
 ## Key Features
